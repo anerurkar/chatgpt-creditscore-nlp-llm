@@ -1,0 +1,11 @@
+C:\data\genai-credit-poc\src\main\java\com\aeerotech\digitallending\Application.java
+C:\data\genai-credit-poc\src\main\java\com\aeerotech\digitallending\controller\ChatController.java
+C:\data\genai-credit-poc\src\main\java\com\aeerotech\digitallending\controller\FakeScoreApiController.java
+C:\data\genai-credit-poc\src\main\java\com\aeerotech\digitallending\prompt\PromptRegistry.java
+C:\data\genai-credit-poc\src\main\java\com\aeerotech\digitallending\model\CustomerScore.java
+C:\data\genai-credit-poc\src\main\java\com\aeerotech\digitallending\service\ChatOrchestratorService.java
+C:\data\genai-credit-poc\src\main\java\com\aeerotech\digitallending\service\OllamaClient.java
+C:\data\genai-credit-poc\src\main\java\com\aeerotech\digitallending\service\CreditScoreService.java
+C:\data\genai-credit-poc\src\main\java\com\aeerotech\digitallending\model\ChatResponse.java
+C:\data\genai-credit-poc\src\main\java\com\aeerotech\digitallending\model\ChatRequest.java
+C:\data\genai-credit-poc\src\main\java\com\aeerotech\digitallending\prompt\PromptBuilder.java

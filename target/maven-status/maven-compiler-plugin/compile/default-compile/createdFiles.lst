@@ -1,0 +1,11 @@
+com\aeerotech\digitallending\model\ChatRequest.class
+com\aeerotech\digitallending\controller\FakeScoreApiController.class
+com\aeerotech\digitallending\model\ChatResponse.class
+com\aeerotech\digitallending\Application.class
+com\aeerotech\digitallending\service\OllamaClient.class
+com\aeerotech\digitallending\model\CustomerScore.class
+com\aeerotech\digitallending\prompt\PromptBuilder.class
+com\aeerotech\digitallending\controller\ChatController.class
+com\aeerotech\digitallending\prompt\PromptRegistry.class
+com\aeerotech\digitallending\service\ChatOrchestratorService.class
+com\aeerotech\digitallending\service\CreditScoreService.class
