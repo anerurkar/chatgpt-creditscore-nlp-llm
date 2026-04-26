@@ -150,6 +150,4 @@ This project is a **reference architecture / prototype** designed to demonstrate
 
 ---
 
-## ⭐ If you find this useful
 
-Consider starring the repo and connecting for collaboration.
